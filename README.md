@@ -19,7 +19,8 @@ python3 + pip installed
 
 1. Create and activate a virtual environment for this project.
 2. Install the requirements pip install -r requirements.txt
-3. Run the jupyter notebook.
+3. Download Word2Vec model from https://code.google.com/archive/p/word2vec/
+4. Run the jupyter notebook.
 
 ## License
 
